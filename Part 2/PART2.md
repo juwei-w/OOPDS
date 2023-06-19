@@ -43,5 +43,7 @@ No | Feature                                                                    
 
 
 ## D. Link to Part 2 GitHub Repo
-
 https://github.com/juwei-w/OOPDS
+
+## E. Link to Presentation Video
+https://drive.google.com/file/d/1v4AhgTzrYMlVxAR5GWuPSXyefoEVENjX/view?usp=sharing
